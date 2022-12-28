@@ -4,6 +4,9 @@ Set of React components to build SQL queries
 
 ## !!!WIP!!!
 
+![Demo](https://raw.githubusercontent.com/NullRefExcep/sql-dom/master/docs/demo.gif)
+
+
 ### Usage
 
 ```tsx
