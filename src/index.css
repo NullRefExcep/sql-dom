@@ -1,0 +1,179 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    background: #111;
+    color: #fff;
+
+    font-size: 18px;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+span {
+    padding: 0 2px;
+}
+
+span:hover {
+    background: #999;
+}
+
+.app {
+
+    padding: 5px;
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid white;
+}
+
+.QueryBuilder {
+}
+
+.RawSql {
+}
+
+.SourceExplorer {
+}
+
+.ctes-wrap-inner {
+    padding: 10px;
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-left: 1px solid #999;
+    border-bottom: 1px solid #999;
+}
+
+button {
+    font-size: 17px;
+    cursor: pointer;
+    box-sizing: border-box;
+    min-width: 27px;
+    padding-bottom: 1px;
+}
+
+button:hover {
+    background: #999;
+}
+
+button {
+    height: 24px;
+    font-size: 19px;
+    border: 1px;
+}
+
+input {
+    font-size: 20px;
+    padding: 0;
+    border: black 1px solid;
+}
+
+select {
+    font-size: 20px;
+    border: black 1px solid;
+    padding: 0;
+}
+
+.wr1_3 {
+    width: calc(100% / 3);
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.dl {
+    display: inline-block;
+}
+
+.mb {
+    margin-bottom: 5px;
+}
+
+.b {
+    border: 1px solid white;
+    padding: 2px;
+}
+
+.tc {
+    text-align: center;
+}
+
+/*Width rate */
+.wr {
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr5 {
+    min-width: 5%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr10 {
+    min-width: 10%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr20 {
+    min-width: 20%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr30 {
+    min-width: 30%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr40 {
+    min-width: 40%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr50 {
+    min-width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr60 {
+    min-width: 60%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr80 {
+    min-width: 80%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+
+.wr90 {
+    min-width: 90%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr95 {
+    min-width: 95%;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+.wr100 {
+    min-width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+}
